@@ -19,6 +19,19 @@ Bezier
 http://algorithmist.wordpress.com/online-demos/
 http://algorithmist.wordpress.com/tag/freehand/
 
+AS 3 Parametric Curve Library
+http://www.algorithmist.net/as3pc.html
+
+AS3 – Parametric path drawing
+http://philippe.elsass.me/2009/06/as3-parametric-path-drawing/
+
+http://algorithmist.wordpress.com/tag/freehand/
+http://algorithmist.wordpress.com/online-demos/
+
+FXG Editor 
+http://fxgeditor.7jigen.net/guide/en
+http://www.libspark.org/browser/as3
+http://www.libspark.org/wiki/seven/fxgparser/en
 
 Charts
 ======
@@ -71,19 +84,7 @@ http://www.developria.com/cgi-bin/mt/mt-search.cgi?IncludeBlogs=1&tag=360Flex&li
 
 http://www.ryancampbell.com/category/flex/
 
-AS 3 Parametric Curve Library
-http://www.algorithmist.net/as3pc.html
 
-AS3 – Parametric path drawing
-http://philippe.elsass.me/2009/06/as3-parametric-path-drawing/
-
-http://algorithmist.wordpress.com/tag/freehand/
-http://algorithmist.wordpress.com/online-demos/
-
-FXG Editor 
-http://fxgeditor.7jigen.net/guide/en
-http://www.libspark.org/browser/as3
-http://www.libspark.org/wiki/seven/fxgparser/en
 
 Use SWF Assets in NME — Cross-Platform!
 http://www.joshuagranick.com/blog/tags/nme
