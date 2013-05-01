@@ -95,6 +95,16 @@ FlexLib component listogle.com/p/flexlib/wiki/ComponentList
 Play With Vectors in Flash CS4
 http://www.slideshare.net/newmovieclip/play-with-vectors-in-flash-cs4?ref=http://blog.newmovieclip.com/2009/02/23/play-with-vectors-in-flash-cs4-presentation-online/
 
+Prep For Zoe JSFL Command
+http://gskinner.com/blog/archives/2012/08/prep-for-zoe-jsfl-command.html
+
+flash interactive 
+http://www.scoop.it/t/flash-interactive
+
+ByteArray.org
+Actionscript 3 Experiments
+http://www.bytearray.org/
+
 The Shumway Open SWF Runtime Project
 https://blog.mozilla.org/research/2012/11/12/introducing-the-shumway-open-swf-runtime-project/
 
