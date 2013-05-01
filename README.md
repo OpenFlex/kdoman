@@ -1,6 +1,13 @@
 kdoman
 ======
 
+UI
+http://www.technitone.com
+
+https://realtimeboard.com/
+
+Real Time Dashboards and InfoGraphics
+https://my.infocaptor.com/
 
 Bezier
 ======
@@ -12,9 +19,12 @@ Charts
 ======
 https://github.com/mbostock/d3/wiki/Gallery
 
+RGraph is a HTML5 charts library that uses the HTML5 canvas tag to draw and supports over twenty different types of charts
+http://www.rgraph.net/
 
-Real Time Dashboards and InfoGraphics
-https://my.infocaptor.com/
+
+
+
 
 Audio
 ======
