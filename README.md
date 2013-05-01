@@ -98,7 +98,8 @@ http://www.slideshare.net/newmovieclip/play-with-vectors-in-flash-cs4?ref=http:/
 The Shumway Open SWF Runtime Project
 https://blog.mozilla.org/research/2012/11/12/introducing-the-shumway-open-swf-runtime-project/
 
-
+지돌스타
+http://blog.jidolstar.com/category/Adobe%20Flex%20/%20ActionScript%203.0
 
 Adobe MAX Session Catalog
 https://www.adobe-max.com/scheduler/catalog.do?searchGroupID=1&searchSort=201&searchDetail=102&searchGroup=1&searchLevel=1
