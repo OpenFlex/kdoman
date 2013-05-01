@@ -59,5 +59,9 @@ https://code.google.com/p/hxswfml/
 https://code.google.com/p/loom-as3/
 
 
+Flex Blogs
+======
+Alex’s Flex Closet
+A collection of Flex-related things. Warning: contains cobwebs, decaying matter and skeletons, but maybe some jewels as well.
 
 
