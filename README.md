@@ -19,6 +19,10 @@ https://my.infocaptor.com/
 
 Bezier
 ======
+
+3D / Exlude / Tesselation
+http://threedart.github.io/three.dart/example/webgl_geometry_shapes/WebGL_Geometry_Shapes.html
+
 http://algorithmist.wordpress.com/online-demos/
 http://algorithmist.wordpress.com/tag/freehand/
 
